@@ -1,6 +1,3 @@
-"Определение методов, типов и уровней тестирования для приложения интернет-магазин": https://docs.google.com/spreadsheets/d/1LmFRmgN5SihsQ8bCBuUYQCKprOrDPsQhM80PsyVzFJU/edit?usp=sharing
+1. Определение методов, типов и уровней тестирования для приложения интернет-магазин: https://docs.google.com/spreadsheets/d/1LmFRmgN5SihsQ8bCBuUYQCKprOrDPsQhM80PsyVzFJU/edit?usp=sharing
 
-Данные методы, типы и уровни были подобраны согласно условиям, того, что:
-1. проект новый
-2. требовалось первичное тестирование
-3. сроки тестирования
+2. Проанализировала доступные требования, нашла несоответствия качественных характеристик требований и внесла эту информацию в следующую таблицу: https://docs.google.com/spreadsheets/d/1chR8qLDGUGqhOKjdYB92tYCmiNdh-iAsVzTpQCOfZcM/edit?usp=sharing
