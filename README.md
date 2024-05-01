@@ -1,4 +1,4 @@
-ТЕОРИЯ ТЕСТИРОВАНИЯ:
+# "Теория тестирования":
 
 1. Определение методов, типов и уровней тестирования для приложения интернет-магазин: https://docs.google.com/spreadsheets/d/1LmFRmgN5SihsQ8bCBuUYQCKprOrDPsQhM80PsyVzFJU/edit?usp=sharing
 
